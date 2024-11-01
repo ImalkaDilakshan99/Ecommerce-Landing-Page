@@ -232,8 +232,20 @@
   }
 
   .End-main{
-    height: 700px;
+    height: 500px;
     background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+  .contact{
+    margin: 10px 30px;
+    display:grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 20px;
+    justify-content: center;
+
   }
   .fashion{
     color: white;
@@ -243,6 +255,20 @@
   }
   .social-network{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+  }
+  .About{
+    margin: 10px 30px;
+    display:flex;
+    justify-content: space-between;
+    gap: 100px;
+  }
+  .about-con{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    gap: 50px;
+  }
+  .About-H{
+    color: white;
   }
   
