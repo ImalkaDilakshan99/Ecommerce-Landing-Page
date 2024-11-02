@@ -46,7 +46,7 @@
     font-size: 11px;
   }
   .h-right{
-    background-image: url("./banner-image.png");
+    background-image: url("./Images/banner-image.png");
     background-size: contain ;
     background-repeat:no-repeat ;
     background-position: center;
@@ -97,21 +97,21 @@
     color: grey;
   }
   .p_img1{
-    background-image: url("./hoddiee.png");
+    background-image: url("./Images/hoddiee.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 330px;
     border-radius: 30px;
   }
   .p_img2{
-    background-image: url("./coats.png");
+    background-image: url("./Images/coats.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 330px;
     border-radius: 30px;
   }
   .p_img3{
-    background-image: url("./T-shirts.png");
+    background-image: url("./Images/T-shirts.png");
     background-repeat: no-repeat;
     background-size:cover;
     height: 330px;
@@ -135,14 +135,14 @@
   }
 
   .Trending_img{
-    background-image: url("./fav-1.png");
+    background-image: url("./Images/fav-1.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
     border-radius: 30px;
   }
   .AllUnder_img{
-    background-image: url("./fav-2.png");
+    background-image: url("./Images/fav-2.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -172,19 +172,19 @@
   }
 
   .playstore{
-    background-image: url("./play-store.png");
+    background-image: url("./Images/play-store.png");
     height: 70px;
     background-repeat: no-repeat;
     background-size: contain;
   }
   .apple{
-    background-image: url("./apple-store.png");
+    background-image: url("./Images/apple-store.png");
     height: 70px;
     background-repeat: no-repeat;
     background-size: contain;
   }
   .mobile{
-    background-image: url("./mobile-app.png");
+    background-image: url("./Images/mobile-app.png");
     height: 700px;
     background-repeat: no-repeat;
     background-size:contain;
