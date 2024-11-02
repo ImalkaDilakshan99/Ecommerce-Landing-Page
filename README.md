@@ -8,7 +8,7 @@ Welcome to the **E-commerce Fashion Landing Page** project! This is a sleek and 
 
 ## Demo
 
-[Link to Demo](#) (Add a link to your live demo here if available.)
+[https://imalkadilakshan99.github.io/Ecommerce-Landing-Page/](#) (Add a link to your live demo here if available.)
 
 ## Features
 
